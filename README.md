@@ -2,7 +2,7 @@
 基于Python3和Pygame的贪吃蛇游戏
 
 ## demo
-
+![image](https://github.com/ZhangMingZhao1/Py-Snake/blob/master/demo1.png)
 ## Mac下安装Pygame
 
 brew install sdl smpeg sdl_image sdl_mixer sdl_ttf portmidi hg
